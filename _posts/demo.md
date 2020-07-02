@@ -1,7 +1,9 @@
 ---
 layout: post
 title: First demo blog post!
-published: false
+date: 2020-07-01
+published: true
+tags: demo markdown blog
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
